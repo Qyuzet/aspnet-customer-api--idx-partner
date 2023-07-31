@@ -1,3 +1,9 @@
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
+using System.Net;
+using WebApplicationRiki;
+
 public class Startup
 {
     public Startup(IConfiguration configuration)
