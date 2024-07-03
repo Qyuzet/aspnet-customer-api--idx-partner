@@ -19,11 +19,11 @@ To run the API locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Qyuzet/customerApi.git
+    git clone [https://github.com/Qyuzet/customerApi.git](https://github.com/Qyuzet/aspnet-customer-api--idx-partner.git)
     ```
 2. Navigate to the project directory:
     ```bash
-    cd customerApi
+    cd aspnet-customer-api--idx-partner
     ```
 3. Install dependencies:
     ```bash
